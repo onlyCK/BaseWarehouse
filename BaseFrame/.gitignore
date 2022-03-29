@@ -1,15 +1,10 @@
 .DS_Store
 node_modules/
-dist/
+/dist/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
-selenium-debug.log
-.history/
-# src/api/coordinate
-# src/pages/coordinate
-src/api/community
-src/pages/community
+
 # Editor directories and files
 .idea
 .vscode
@@ -17,6 +12,3 @@ src/pages/community
 *.ntvs*
 *.njsproj
 *.sln
-package.json.rej
-# *.json
-
